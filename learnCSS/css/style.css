@@ -1,0 +1,10 @@
+p{
+    font-family: cursive,'Courier New', Courier, monospace;
+}
+body {display: inline-flexbox;
+background-color: blanchedalmond;}
+button { font-family: cursive;
+    background-color:burlywood;
+    font-style: normal;
+    font-weight: bold;
+}
